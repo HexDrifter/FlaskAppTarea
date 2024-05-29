@@ -1,5 +1,39 @@
 {% extends "base_template.html" %}
-{% block title %}Tutorial Flask: Miniblog{% endblock %}
+{% block title %}Viaja a japón{% endblock %}
 {% block content %}
-    {{ num_posts}} posts
+    <h1>Lista de Hostales</h1>
+    <p>Bienvenidos a la página donde puedes averiguar sobre Hostales en japón</p>
+    <table>
+        <tr>
+            <th>
+                Nombre de hostales
+            </th>
+            <th>
+                Ciudad
+            </th>
+            <th>
+                Precio Desde
+            </th>
+            <th>
+                Rating
+            </th>
+        </tr>
+        {% for dato in datos.Datos %}
+            <tr>
+                <td>
+                    {{ dato.Nombre_Hostal }}
+                </td>
+                <td>
+                    {{ dato.Ciudad }}
+                </td>
+                <td>
+                    {{ dato.Precio_desde}}&yen;
+                </td>
+                <td>
+                    {{ dato.Rating }}
+                </td>
+            </tr>
+        {% endfor %}
+        
+    </table>
 {% endblock %}

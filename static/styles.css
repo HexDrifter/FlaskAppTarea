@@ -1,0 +1,59 @@
+footer
+{
+    background: #2c2c2c;
+    text-align: center;
+    color: #ffffff;
+    font-size: medium;
+    height: 50px;
+    padding: 50px;
+}
+header{
+    margin: 0;
+    padding-top: 1px;
+    background: #afafaf;
+    width: auto;
+    height: 140px;
+    background-image: url(Mt_Fuji_banner.jpg);
+    background-size: 1920px 180px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: #B3C7EA;
+}
+header h1{
+    text-align: center;
+}
+
+header li{
+    text-decoration: none;
+    display: inline;
+    background: #9c9c9c;
+    padding: 3px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+}
+
+header li a{
+    color: #000000;
+    text-decoration: none;
+}
+header li a:hover{
+    color: #dd0000;
+}
+
+main{
+    border-radius: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 1366px;
+    background: #adadad;
+    display: block;
+    margin-top: 0;
+    margin-bottom: 0;
+    padding: 0;
+}
+main table{
+    border-radius: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    background: #ffffff;
+}
