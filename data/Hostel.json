@@ -327,5 +327,6 @@
         {"Nombre_Hostal":"YADOYA Guesthouse Orange","Ciudad":"Tokyo","Precio_desde":2000,"Distancia":2.9,"Puntuacion_resumida":8.9,"Rating":"Fabulous","Atmosfera":8.6,"Limpieza":9.0,"Facilidades":7.8,"Seguridad":9.0,"Staff":9.2},
         {"Nombre_Hostal":"YAWP! backpackers","Ciudad":"Tokyo","Precio_desde":2500,"Distancia":17.5,"Puntuacion_resumida":9.3,"Rating":"Superb","Atmosfera":9.5,"Limpieza":9.3,"Facilidades":9.4,"Seguridad":9.5,"Staff":9.2},
         {"Nombre_Hostal":"You En Me House","Ciudad":"Kyoto","Precio_desde":2800,"Distancia":2.4,"Puntuacion_resumida":8.0,"Rating":"Fabulous","Atmosfera":7.3,"Limpieza":8.0,"Facilidades":6.7,"Seguridad":8.7,"Staff":10.0},
-        {"Nombre_Hostal":"Zabutton Hostel","Ciudad":"Tokyo","Precio_desde":2900,"Distancia":5.9,"Puntuacion_resumida":8.6,"Rating":"Fabulous","Atmosfera":8.1,"Limpieza":8.5,"Facilidades":7.8,"Seguridad":8.9,"Staff":9.5}]
+        {"Nombre_Hostal":"Zabutton Hostel","Ciudad":"Tokyo","Precio_desde":2900,"Distancia":5.9,"Puntuacion_resumida":8.6,"Rating":"Fabulous","Atmosfera":8.1,"Limpieza":8.5,"Facilidades":7.8,"Seguridad":8.9,"Staff":9.5}
+    ]
 }
